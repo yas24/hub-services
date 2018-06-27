@@ -1,0 +1,22 @@
+{
+  "name": "hub-tools-file",
+  "version": "1.0.0",
+  "description": "A strategy for files, part of a much bigger library called Hub-Tools.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yas24/hub-tools.git"
+  },
+  "author": "YF",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yas24/hub-tools/issues"
+  },
+  "homepage": "https://github.com/yas24/hub-tools#readme",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}

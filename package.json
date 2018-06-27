@@ -1,0 +1,22 @@
+{
+  "name": "hub-tools",
+  "version": "1.0.3",
+  "description": "A library that contains various utilities to use throughout the Hub24 platform.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yas24/hub-tools.git"
+  },
+  "author": "YF",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yas24/hub-tools/issues"
+  },
+  "homepage": "https://github.com/yas24/hub-tools#readme",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
