@@ -1,2 +1,2 @@
 
-module.exports = require('./lib/index');
+module.exports = import('./lib/index');
