@@ -1,8 +1,8 @@
 {
   "name": "hub-tools-file",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A strategy for files, part of a much bigger library called Hub-Tools.",
-  "main": "index.js",
+  "main": "file.js",
   "scripts": {
     "test": "test"
   },
